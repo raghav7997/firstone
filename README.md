@@ -1,5 +1,5 @@
 # firstone
-HERE IS MY FIRST REPOSITORY 
+MY FIRST REPOSITORY 
 hi!!!!
 hello
 
